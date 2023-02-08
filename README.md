@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.postimg.cc/c1bN70Nd/banner-1.png" align="center" style="width: 100%" />
+</div> 
+
 ## 👋🏻 About Me
 Software developer
  - 1
