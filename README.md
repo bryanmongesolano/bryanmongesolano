@@ -7,10 +7,10 @@
  
  <div align="center">
    <a href="https://linkedin.com/in/bryanmonge">
-     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=bryanmonge&logo=linkedin&style=flat&color=fff&labelColor=3e80ff"/>
+     <img src="https://img.shields.io/static/v1?label=&message=in/bryanmonge&logo=linkedin&style=flat&color=fff&labelColor=3e80ff"/>
    </a>
     <a href="mailto:mongesolanobryan@gmail.com">
-     <img src="https://img.shields.io/static/v1?label=Email&message=mongesolanobryan@gmail.com&logo=mail.ru&style=flat&color=fff&labelColor=3e80ff"/>
+     <img src="https://img.shields.io/static/v1?label=&message=mongesolanobryan@gmail.com&logo=mail.ru&style=flat&color=fff&labelColor=3e80ff"/>
    </a>
  </div>
  <br/>
