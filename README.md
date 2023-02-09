@@ -1,19 +1,6 @@
 <div align="center">
 <img src="https://i.postimg.cc/c1bN70Nd/banner-1.png" align="center" style="width: 100%" />
 </div> 
-
-<h2 align="center">About Me</h2>
-<p align="center">Software developer</p>
- 
- <div align="center">
-   <a href="https://linkedin.com/in/bryanmonge">
-     <img src="https://img.shields.io/static/v1?label=&message=in/bryanmonge&logo=linkedin&style=flat&color=fff&labelColor=3e80ff"/>
-   </a>
-    <a href="mailto:mongesolanobryan@gmail.com">
-     <img src="https://img.shields.io/static/v1?label=&message=mongesolanobryan@gmail.com&logo=mail.ru&style=flat&color=fff&labelColor=3e80ff"/>
-   </a>
- </div>
- <br/>
  
  <h2 align="center">Tech Stack</h2>
  
