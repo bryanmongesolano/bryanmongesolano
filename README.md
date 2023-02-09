@@ -36,4 +36,4 @@
   
  <h2 align="center">Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bryanmongesolano&bg_color=4d89fe&show_icons=true&hide_border=true&icon_color=3e80ff&theme=github_dark&layout=compact&card_width=1000%langs_count=6&border_radius=15&text_color=fff&title_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bryanmongesolano&bg_color=4d89fe&show_icons=true&hide_border=true&icon_color=3e80ff&theme=github_dark&layout=compact&card_width=600%langs_count=6&border_radius=15&text_color=fff&title_color=fff)
