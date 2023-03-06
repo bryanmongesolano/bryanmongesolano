@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/c1bN70Nd/banner-1.png" align="center" style="width: 100%" />
+  <img src="https://i.postimg.cc/4dWPGPh7/Group-17-1.png" align="center" style="width: 100%" />
 </div> 
 
 <h2 align="center">Tech Stack</h2>
